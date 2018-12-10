@@ -1,0 +1,19 @@
+{
+  "name": "far-script",
+  "version": "1.0.0",
+  "description": "far script package",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Attrash-Islam/far-script.git"
+  },
+  "author": "Islam Attrash <isattrash@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Attrash-Islam/far-script/issues"
+  },
+  "homepage": "https://github.com/Attrash-Islam/far-script#readme"
+}
