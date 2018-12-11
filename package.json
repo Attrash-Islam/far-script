@@ -1,6 +1,6 @@
 {
   "name": "far-script",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "far script package",
   "bin": "./index.js",
   "scripts": {
