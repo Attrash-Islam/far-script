@@ -1,6 +1,6 @@
 {
   "name": "far-script",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "far script package",
   "bin": "./index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Attrash-Islam/far-script/issues"
   },
-  "homepage": "https://github.com/Attrash-Islam/far-script#readme"
+  "homepage": "https://github.com/Attrash-Islam/far-script#readme",
+  "devDependencies": {
+    "@types/node": "^10.12.18"
+  }
 }
